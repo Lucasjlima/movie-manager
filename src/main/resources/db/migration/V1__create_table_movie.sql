@@ -1,6 +1,0 @@
-CREATE TABLE movie (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    title VARCHAR(100) NOT NULL,
-    director VARCHAR(100) NOT NULL,
-    release_year INT NOT NULL
-);
